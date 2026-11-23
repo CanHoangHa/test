@@ -1,0 +1,1 @@
+MAKO 047 publish smoke test.
