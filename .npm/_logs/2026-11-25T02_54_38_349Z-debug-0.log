@@ -1,0 +1,16 @@
+0 verbose cli /home/administrator/mako-linux-tools/node/bin/node /home/administrator/mako-linux-tools/node/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:/home/administrator/mako-linux-tools/node/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/administrator/mako-linux-release.rpmLqZ/local-agent/dist/midnight-agent-linux-x86_64/data/clones/e290703a-28d9-5967-8124-6996aa56cadd/.npmrc
+5 silly config load:file:/home/administrator/mako-linux-tools/node/etc/npmrc
+6 verbose title npm root
+7 verbose argv "root" "--global"
+8 verbose logfile logs-max:10 dir:/home/administrator/mako-linux-release.rpmLqZ/local-agent/dist/midnight-agent-linux-x86_64/data/clones/e290703a-28d9-5967-8124-6996aa56cadd/.npm/_logs/2026-11-25T02_54_38_349Z-
+9 verbose logfile /home/administrator/mako-linux-release.rpmLqZ/local-agent/dist/midnight-agent-linux-x86_64/data/clones/e290703a-28d9-5967-8124-6996aa56cadd/.npm/_logs/2026-11-25T02_54_38_349Z-debug-0.log
+10 verbose cwd /home/administrator/mako-linux-release.rpmLqZ/local-agent/dist/midnight-agent-linux-x86_64/data/clones/e290703a-28d9-5967-8124-6996aa56cadd
+11 verbose os Linux 6.18.58.1-microsoft-standard-WSL2
+12 verbose node v22.17.0
+13 verbose npm  v10.9.2
+14 verbose exit 0
+15 info ok
